@@ -70,4 +70,5 @@ tracks:
     ros_distro: verystable
     vcs_type: git
     vcs_uri: https://github.com/splintered-reality/py_trees_ros_viewer.git
-    version: :{auto}
+    version: 0.2.3
+    version_saved: :{auto}
